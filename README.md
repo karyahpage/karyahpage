@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! :wave:
+- :woman_technologist: I'm currently working with html, css, and java for FRC! 
+- Reeces pieces have my heart :love_letter:
+- `walkablecities` `tame impala` `thriller books`
+
 
 <!--
 **itskaryah/itskaryah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
