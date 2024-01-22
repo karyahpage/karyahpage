@@ -1,5 +1,5 @@
 ### Hi! :wave:
-<!-- :woman_technologist: I'm currently working with html, css, and java for FRC! -->
+ :woman_technologist: I’m currently learning html, css and java
 
 
 
